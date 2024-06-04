@@ -1,0 +1,33 @@
+﻿@model List<UserRoleVM>
+
+<div class="card">
+    <div class="card-header text-center">
+        <h1>Categories</h1>
+    </div>
+    <div class="card-block table-border-style">
+        <div class="table-responsive">
+            <div class="create-operation">
+                <a asp-action="Create" class="btn btn-success text-white btn-sm">Add Role</a>
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Full Name</th>
+                        <th>Username</th>
+                        <th>Email</th>
+                        <th>Roles</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="category-data">
+                            <td>@item.FullName</td>
+                            <td>@item.Username</td>
+                            <td>@item.Email</td>
+                            <td>@item.Email</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+

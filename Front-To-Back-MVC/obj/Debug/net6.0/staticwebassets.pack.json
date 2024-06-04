@@ -1,0 +1,1017 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/obj/Debug/net6.0/scopedcss/projectbundle/Front-To-Back-MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/Front-To-Back-MVC.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/.DS_Store",
+      "PackagePath": "staticwebassets/admin/.DS_Store"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/css/animate.css/css/animate.css",
+      "PackagePath": "staticwebassets/admin/css/animate.css/css/animate.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/css/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/admin/css/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/css/chartist/chartist.css",
+      "PackagePath": "staticwebassets/admin/css/chartist/chartist.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/admin/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/css/ionicons.css",
+      "PackagePath": "staticwebassets/admin/css/ionicons.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/css/jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets/admin/css/jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/css/morris.js/css/morris.css",
+      "PackagePath": "staticwebassets/admin/css/morris.js/css/morris.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/css/style.css",
+      "PackagePath": "staticwebassets/admin/css/style.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/HELP-US-OUT.txt"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/css/font-awesome.css",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/animated.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/animated.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/bordered-pulled.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/core.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/core.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/fixed-width.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/fixed-width.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/font-awesome.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/font-awesome.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/icons.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/icons.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/larger.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/larger.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/list.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/list.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/mixins.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/mixins.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/path.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/path.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/rotated-flipped.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/screen-reader.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/screen-reader.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/stacked.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/stacked.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/less/variables.less",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/less/variables.less"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_animated.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_core.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_icons.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_larger.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_list.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_path.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_path.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/_variables.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/font-awesome.css",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/font-awesome.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/font-awesome.css.map",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/font-awesome.css.map"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/font-awesome/scss/font-awesome.scss",
+      "PackagePath": "staticwebassets/admin/icon/font-awesome/scss/font-awesome.scss"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/icofont/css/icofont.css",
+      "PackagePath": "staticwebassets/admin/icon/icofont/css/icofont.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/icofont/fonts/icofont.eot",
+      "PackagePath": "staticwebassets/admin/icon/icofont/fonts/icofont.eot"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/icofont/fonts/icofont.svg",
+      "PackagePath": "staticwebassets/admin/icon/icofont/fonts/icofont.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/icofont/fonts/icofont.ttf",
+      "PackagePath": "staticwebassets/admin/icon/icofont/fonts/icofont.ttf"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/icofont/fonts/icofont.woff",
+      "PackagePath": "staticwebassets/admin/icon/icofont/fonts/icofont.woff"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/themify-icons/fonts/themify.eot",
+      "PackagePath": "staticwebassets/admin/icon/themify-icons/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/themify-icons/fonts/themify.svg",
+      "PackagePath": "staticwebassets/admin/icon/themify-icons/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/themify-icons/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/admin/icon/themify-icons/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/themify-icons/fonts/themify.woff",
+      "PackagePath": "staticwebassets/admin/icon/themify-icons/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/icon/themify-icons/themify-icons.css",
+      "PackagePath": "staticwebassets/admin/icon/themify-icons/themify-icons.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/Thumbs.db",
+      "PackagePath": "staticwebassets/admin/images/Thumbs.db"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/auth/Logo-small-bottom.png",
+      "PackagePath": "staticwebassets/admin/images/auth/Logo-small-bottom.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/auth/Thumbs.db",
+      "PackagePath": "staticwebassets/admin/images/auth/Thumbs.db"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/auth/logo-dark.png",
+      "PackagePath": "staticwebassets/admin/images/auth/logo-dark.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/auth/logo.png",
+      "PackagePath": "staticwebassets/admin/images/auth/logo.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/avatar-1.jpg",
+      "PackagePath": "staticwebassets/admin/images/avatar-1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/avatar-2.jpg",
+      "PackagePath": "staticwebassets/admin/images/avatar-2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/avatar-3.jpg",
+      "PackagePath": "staticwebassets/admin/images/avatar-3.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/avatar-4.jpg",
+      "PackagePath": "staticwebassets/admin/images/avatar-4.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/avatar-5.jpg",
+      "PackagePath": "staticwebassets/admin/images/avatar-5.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/avatar-blank.jpg",
+      "PackagePath": "staticwebassets/admin/images/avatar-blank.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/blog-130.png",
+      "PackagePath": "staticwebassets/admin/images/blog/blog-130.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/blog-r-1.jpg",
+      "PackagePath": "staticwebassets/admin/images/blog/blog-r-1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/blog-r-2.jpg",
+      "PackagePath": "staticwebassets/admin/images/blog/blog-r-2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/blog-r-3.jpg",
+      "PackagePath": "staticwebassets/admin/images/blog/blog-r-3.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/blog-single-1.jpg",
+      "PackagePath": "staticwebassets/admin/images/blog/blog-single-1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/blog-single.jpg",
+      "PackagePath": "staticwebassets/admin/images/blog/blog-single.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/blog-small-bg-1.png",
+      "PackagePath": "staticwebassets/admin/images/blog/blog-small-bg-1.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/st_gallery1.jpg",
+      "PackagePath": "staticwebassets/admin/images/blog/st_gallery1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/st_gallery2.jpg",
+      "PackagePath": "staticwebassets/admin/images/blog/st_gallery2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/blog/st_gallery3.jpg",
+      "PackagePath": "staticwebassets/admin/images/blog/st_gallery3.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets/admin/images/breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/browser/chrome.png",
+      "PackagePath": "staticwebassets/admin/images/browser/chrome.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/browser/firefox.png",
+      "PackagePath": "staticwebassets/admin/images/browser/firefox.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/browser/ie.png",
+      "PackagePath": "staticwebassets/admin/images/browser/ie.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/browser/opera.png",
+      "PackagePath": "staticwebassets/admin/images/browser/opera.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/browser/safari.png",
+      "PackagePath": "staticwebassets/admin/images/browser/safari.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/details_close.png",
+      "PackagePath": "staticwebassets/admin/images/details_close.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/details_open.png",
+      "PackagePath": "staticwebassets/admin/images/details_open.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/faq_man.png",
+      "PackagePath": "staticwebassets/admin/images/faq_man.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/favicon.ico",
+      "PackagePath": "staticwebassets/admin/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/logo-blue.png",
+      "PackagePath": "staticwebassets/admin/images/logo-blue.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/logo-compact.png",
+      "PackagePath": "staticwebassets/admin/images/logo-compact.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/logo.png",
+      "PackagePath": "staticwebassets/admin/images/logo.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/mCSB_buttons.png",
+      "PackagePath": "staticwebassets/admin/images/mCSB_buttons.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/mega-menu/01.jpg",
+      "PackagePath": "staticwebassets/admin/images/mega-menu/01.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/mega-menu/02.jpg",
+      "PackagePath": "staticwebassets/admin/images/mega-menu/02.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/mega-menu/03.jpg",
+      "PackagePath": "staticwebassets/admin/images/mega-menu/03.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/select-arrow.png",
+      "PackagePath": "staticwebassets/admin/images/select-arrow.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/tooltip/Euclid.png",
+      "PackagePath": "staticwebassets/admin/images/tooltip/Euclid.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/tooltip/shape1.svg",
+      "PackagePath": "staticwebassets/admin/images/tooltip/shape1.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/tooltip/tooltip1.svg",
+      "PackagePath": "staticwebassets/admin/images/tooltip/tooltip1.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/user-bg.jpg",
+      "PackagePath": "staticwebassets/admin/images/user-bg.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/AUSTRALIA.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/BRAZIL.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/BRAZIL.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/DIGITALPEN.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/DIGITALPEN.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/GERMANY.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/GERMANY.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/IPAD.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/IPAD.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/PHONE1.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/PHONE1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/PHONE2.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/PHONE2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/PHONE3.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/PHONE3.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/PHONE4.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/PHONE4.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/TABLET.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/TABLET.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/UK.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/UK.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/USA.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/USA.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/prod1.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/prod1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/prod2.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/prod2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/prod3.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/prod3.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/prod4.jpg",
+      "PackagePath": "staticwebassets/admin/images/widget/prod4.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/wather2bottom.png",
+      "PackagePath": "staticwebassets/admin/images/widget/wather2bottom.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/wather2m.png",
+      "PackagePath": "staticwebassets/admin/images/widget/wather2m.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/wather2star1.png",
+      "PackagePath": "staticwebassets/admin/images/widget/wather2star1.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/wather2star2.png",
+      "PackagePath": "staticwebassets/admin/images/widget/wather2star2.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/watherbottom.png",
+      "PackagePath": "staticwebassets/admin/images/widget/watherbottom.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/wathernature.png",
+      "PackagePath": "staticwebassets/admin/images/widget/wathernature.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/watherstar1.png",
+      "PackagePath": "staticwebassets/admin/images/widget/watherstar1.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/images/widget/watherstar2.png",
+      "PackagePath": "staticwebassets/admin/images/widget/watherstar2.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/SmoothScroll.js",
+      "PackagePath": "staticwebassets/admin/js/SmoothScroll.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/archive.js",
+      "PackagePath": "staticwebassets/admin/js/archive.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/bootstrap-growl.min.js",
+      "PackagePath": "staticwebassets/admin/js/bootstrap-growl.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/admin/js/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/chart.js/Chart.js",
+      "PackagePath": "staticwebassets/admin/js/chart.js/Chart.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/common-pages.js",
+      "PackagePath": "staticwebassets/admin/js/common-pages.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/jquery-slimscroll/jquery.slimscroll.js",
+      "PackagePath": "staticwebassets/admin/js/jquery-slimscroll/jquery.slimscroll.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/jquery-ui/jquery-ui.min.js",
+      "PackagePath": "staticwebassets/admin/js/jquery-ui/jquery-ui.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets/admin/js/jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets/admin/js/jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/admin/js/jquery/jquery.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/modernizr/css-scrollbars.js",
+      "PackagePath": "staticwebassets/admin/js/modernizr/css-scrollbars.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/modernizr/modernizr.js",
+      "PackagePath": "staticwebassets/admin/js/modernizr/modernizr.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/morris-custom-chart.js",
+      "PackagePath": "staticwebassets/admin/js/morris-custom-chart.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/morris.js/morris.js",
+      "PackagePath": "staticwebassets/admin/js/morris.js/morris.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/pcoded.min.js",
+      "PackagePath": "staticwebassets/admin/js/pcoded.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/popper.js/popper.min.js",
+      "PackagePath": "staticwebassets/admin/js/popper.js/popper.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/product.js",
+      "PackagePath": "staticwebassets/admin/js/product.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/raphael/raphael.min.js",
+      "PackagePath": "staticwebassets/admin/js/raphael/raphael.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/retore.js",
+      "PackagePath": "staticwebassets/admin/js/retore.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/script.js",
+      "PackagePath": "staticwebassets/admin/js/script.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/script.min.js",
+      "PackagePath": "staticwebassets/admin/js/script.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/js/vertical-layout.min.js",
+      "PackagePath": "staticwebassets/admin/js/vertical-layout.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/accordion/accordion.js",
+      "PackagePath": "staticwebassets/admin/pages/accordion/accordion.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/accordion/accordion.min.js",
+      "PackagePath": "staticwebassets/admin/pages/accordion/accordion.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/amchart/css/amchart.css",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/amchart/css/amchart.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/amchart/css/export.css",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/amchart/css/export.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/amchart/js/amcharts.js",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/amchart/js/amcharts.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/amchart/js/custom-amchart.js",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/amchart/js/custom-amchart.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/amchart/js/export.min.js",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/amchart/js/export.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/amchart/js/images/dragIconRoundBig.svg",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/amchart/js/images/dragIconRoundBig.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/amchart/js/images/dragIconRoundBigH.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/amchart/js/light.js",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/amchart/js/light.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/amchart/js/serial.js",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/amchart/js/serial.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/dashboard/custom-dashboard.js",
+      "PackagePath": "staticwebassets/admin/pages/dashboard/custom-dashboard.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/google-maps/gmaps.js",
+      "PackagePath": "staticwebassets/admin/pages/google-maps/gmaps.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/google-maps/google-maps.js",
+      "PackagePath": "staticwebassets/admin/pages/google-maps/google-maps.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/icon-modal.js",
+      "PackagePath": "staticwebassets/admin/pages/icon-modal.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/notification/notification.css",
+      "PackagePath": "staticwebassets/admin/pages/notification/notification.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/notification/notification.js",
+      "PackagePath": "staticwebassets/admin/pages/notification/notification.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/todo/todo.js",
+      "PackagePath": "staticwebassets/admin/pages/todo/todo.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/waves/css/waves.min.css",
+      "PackagePath": "staticwebassets/admin/pages/waves/css/waves.min.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/waves/js/waves.min.js",
+      "PackagePath": "staticwebassets/admin/pages/waves/js/waves.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/amcharts.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/amcharts.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/amcharts.min.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/amcharts.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/export.min.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/export.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/gauge.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/gauge.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/gauge.min.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/gauge.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/light.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/light.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/light.min.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/light.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/pie.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/pie.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/pie.min.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/pie.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/serial.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/serial.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/amchart/serial.min.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/amchart/serial.min.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/admin/pages/widget/excanvas.js",
+      "PackagePath": "staticwebassets/admin/pages/widget/excanvas.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/css/blog.css",
+      "PackagePath": "staticwebassets/css/blog.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/css/contact.css",
+      "PackagePath": "staticwebassets/css/contact.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/css/course.css",
+      "PackagePath": "staticwebassets/css/course.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/73ec7230-e5f8-4164-a0a0-cfbf4f5472b3-ohii8Hxq_400x400.png",
+      "PackagePath": "staticwebassets/images/73ec7230-e5f8-4164-a0a0-cfbf4f5472b3-ohii8Hxq_400x400.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/833c4704-2426-4fbb-a63a-c74c5bf4b2b8-asp.jpeg",
+      "PackagePath": "staticwebassets/images/833c4704-2426-4fbb-a63a-c74c5bf4b2b8-asp.jpeg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/animate-circle.png",
+      "PackagePath": "staticwebassets/images/animate-circle.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/animate-dots.png",
+      "PackagePath": "staticwebassets/images/animate-dots.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/background-circle.png",
+      "PackagePath": "staticwebassets/images/background-circle.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/background-dots.png",
+      "PackagePath": "staticwebassets/images/background-dots.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/banner-1.jpg",
+      "PackagePath": "staticwebassets/images/banner-1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/banner-bg-1.jpg",
+      "PackagePath": "staticwebassets/images/banner-bg-1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/banner-bg-2.jpg",
+      "PackagePath": "staticwebassets/images/banner-bg-2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/banner-img-1.png",
+      "PackagePath": "staticwebassets/images/banner-img-1.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/banner-img-2.png",
+      "PackagePath": "staticwebassets/images/banner-img-2.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/blog-1.jpg",
+      "PackagePath": "staticwebassets/images/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/blog-2.jpg",
+      "PackagePath": "staticwebassets/images/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/blog-3.jpg",
+      "PackagePath": "staticwebassets/images/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/blog-4.jpg",
+      "PackagePath": "staticwebassets/images/blog-4.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/blog-5.jpg",
+      "PackagePath": "staticwebassets/images/blog-5.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/blog-6.jpg",
+      "PackagePath": "staticwebassets/images/blog-6.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/blog-sm-1.jpg",
+      "PackagePath": "staticwebassets/images/blog-sm-1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/blog-sm-2.jpg",
+      "PackagePath": "staticwebassets/images/blog-sm-2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/blog-sm-3.jpg",
+      "PackagePath": "staticwebassets/images/blog-sm-3.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/circle-purple.png",
+      "PackagePath": "staticwebassets/images/circle-purple.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/circle-rose.png",
+      "PackagePath": "staticwebassets/images/circle-rose.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/contact-shape-1.png",
+      "PackagePath": "staticwebassets/images/contact-shape-1.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/contact-shape-2.png",
+      "PackagePath": "staticwebassets/images/contact-shape-2.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/contact-shape-3.png",
+      "PackagePath": "staticwebassets/images/contact-shape-3.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/contact-shape-4.png",
+      "PackagePath": "staticwebassets/images/contact-shape-4.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/contact-shape-5.png",
+      "PackagePath": "staticwebassets/images/contact-shape-5.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/course-1.jpg",
+      "PackagePath": "staticwebassets/images/course-1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/course-2.jpg",
+      "PackagePath": "staticwebassets/images/course-2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/course-3.jpg",
+      "PackagePath": "staticwebassets/images/course-3.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/course-4.jpg",
+      "PackagePath": "staticwebassets/images/course-4.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/course-5.jpg",
+      "PackagePath": "staticwebassets/images/course-5.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/course-6.jpg",
+      "PackagePath": "staticwebassets/images/course-6.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/cta-shape.png",
+      "PackagePath": "staticwebassets/images/cta-shape.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/de607593-0a17-4819-bf29-7fce818c0e6d-ohii8Hxq_400x400.png",
+      "PackagePath": "staticwebassets/images/de607593-0a17-4819-bf29-7fce818c0e6d-ohii8Hxq_400x400.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/e9a4bd52-e86f-4e04-ad09-18074c44b80e-asp.jpeg",
+      "PackagePath": "staticwebassets/images/e9a4bd52-e86f-4e04-ad09-18074c44b80e-asp.jpeg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/events-shape.png",
+      "PackagePath": "staticwebassets/images/events-shape.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/logo-2.png",
+      "PackagePath": "staticwebassets/images/logo-2.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/main-img.jpeg",
+      "PackagePath": "staticwebassets/images/main-img.jpeg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/main-img2.jpeg",
+      "PackagePath": "staticwebassets/images/main-img2.jpeg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/navbar-logo.png",
+      "PackagePath": "staticwebassets/images/navbar-logo.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/page-title.jpg",
+      "PackagePath": "staticwebassets/images/page-title.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/teacher-1.jpg",
+      "PackagePath": "staticwebassets/images/teacher-1.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/teacher-2.jpg",
+      "PackagePath": "staticwebassets/images/teacher-2.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/teacher-3.jpg",
+      "PackagePath": "staticwebassets/images/teacher-3.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/teacher-4.jpg",
+      "PackagePath": "staticwebassets/images/teacher-4.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/teacher-5.jpg",
+      "PackagePath": "staticwebassets/images/teacher-5.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/teacher-6.jpg",
+      "PackagePath": "staticwebassets/images/teacher-6.jpg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/yellow-bg.png",
+      "PackagePath": "staticwebassets/images/yellow-bg.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/images/yellow-underline.png",
+      "PackagePath": "staticwebassets/images/yellow-underline.png"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/js/blog.js",
+      "PackagePath": "staticwebassets/js/blog.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/js/contact.js",
+      "PackagePath": "staticwebassets/js/contact.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/js/course.js",
+      "PackagePath": "staticwebassets/js/course.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/js/index.js",
+      "PackagePath": "staticwebassets/js/index.js"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/logos/.DS_Store",
+      "PackagePath": "staticwebassets/logos/.DS_Store"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/logos/book.svg",
+      "PackagePath": "staticwebassets/logos/book.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/logos/call.svg",
+      "PackagePath": "staticwebassets/logos/call.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/logos/mail.svg",
+      "PackagePath": "staticwebassets/logos/mail.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/logos/map.svg",
+      "PackagePath": "staticwebassets/logos/map.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/logos/message.svg",
+      "PackagePath": "staticwebassets/logos/message.svg"
+    },
+    {
+      "Id": "/Users/sh1riyev/Projects/Front-To-Back-MVC/Front-To-Back-MVC/wwwroot/logos/smile.svg",
+      "PackagePath": "staticwebassets/logos/smile.svg"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Front-To-Back-MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Front-To-Back-MVC.props",
+      "PackagePath": "build\\Front-To-Back-MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Front-To-Back-MVC.props",
+      "PackagePath": "buildMultiTargeting\\Front-To-Back-MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Front-To-Back-MVC.props",
+      "PackagePath": "buildTransitive\\Front-To-Back-MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

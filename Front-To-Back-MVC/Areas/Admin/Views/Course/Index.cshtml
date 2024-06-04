@@ -1,0 +1,38 @@
+﻿@model IEnumerable<CourseVM>
+
+<div class="card">
+    <div class="card-header text-center">
+        <h1>Courses</h1>
+    </div>
+    <div class="card-block table-border-style">
+        <div class="table-responsive">
+            <div class="create-operation">
+                <a asp-action="Create" class="btn btn-success text-white btn-sm"><i class="ti-plus"></i></a>
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Category Name</th>
+                        <th>Price</th>
+                        <th>Image</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="category-data">
+                            <td>@item.CategoryName</td>
+                            <td>@item.CategoryName</td>
+                            <td>@item.Price</td>
+                            <td>@item.MainImage</td>
+                            <td>
+                                <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-primary text-white btn-sm"><i class="ti-info"></i></a>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning text-white btn-sm"><i class="ti-settings"></i></a>
+                                <form class="d-inline" method="post" asp-action="Delete" asp-route-id="@item.Id"><button type="submit" class="btn btn-danger text-white btn-sm"><i class="ti-trash"></i></button></form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+

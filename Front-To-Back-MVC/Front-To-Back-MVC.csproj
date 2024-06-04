@@ -1,0 +1,75 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Front_To_Back_MVC</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\admin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\admin\" />
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\Admin\" />
+    <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="Areas\Admin\Views\" />
+    <Folder Include="Models\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Services\" />
+    <Folder Include="Data\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Helpers\Extensions\" />
+    <Folder Include="Areas\Admin\Views\Dashboard\" />
+    <Folder Include="Areas\Admin\Views\Category\" />
+    <Folder Include="Areas\Admin\Views\Course\" />
+    <Folder Include="Areas\Admin\Views\Shared\" />
+    <Folder Include="ViewModels\Category\" />
+    <Folder Include="ViewModels\Course\" />
+    <Folder Include="Services\Interface\" />
+    <Folder Include="Views\Account\" />
+    <Folder Include="ViewModels\Account\" />
+    <Folder Include="Helpers\Enums\" />
+    <Folder Include="Areas\Admin\Views\User\" />
+    <Folder Include="ViewModels\Users\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Areas\" />
+    <None Remove="Areas\Admin\" />
+    <None Remove="Areas\Admin\Controllers\" />
+    <None Remove="Areas\Admin\Views\" />
+    <None Remove="Models\" />
+    <None Remove="ViewModels\" />
+    <None Remove="Services\" />
+    <None Remove="Data\" />
+    <None Remove="Helpers\" />
+    <None Remove="Helpers\Extensions\" />
+    <None Remove="Areas\Admin\Views\Dashboard\" />
+    <None Remove="Areas\Admin\Views\Category\" />
+    <None Remove="Areas\Admin\Views\Course\" />
+    <None Remove="Areas\Admin\Views\Shared\" />
+    <None Remove="ViewModels\Category\" />
+    <None Remove="ViewModels\Course\" />
+    <None Remove="Services\Interface\" />
+    <None Remove="Views\Account\" />
+    <None Remove="ViewModels\Account\" />
+    <None Remove="Helpers\Enums\" />
+    <None Remove="Areas\Admin\Views\User\" />
+    <None Remove="ViewModels\Users\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.31">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.31">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.31" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.31" />
+  </ItemGroup>
+</Project>

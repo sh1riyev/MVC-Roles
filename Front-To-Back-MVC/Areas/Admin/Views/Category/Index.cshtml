@@ -1,0 +1,67 @@
+﻿@model IEnumerable<CategoryCourseVM>
+
+<div class="card">
+    <div class="card-header text-center">
+        <h1>Categories</h1>
+    </div>
+    <div class="card-block table-border-style">
+        <div class="table-responsive">
+            <div class="create-operation">
+                @if (User.IsInRole("SuperAdmin"))
+                {
+                    <a asp-action="Create" class="btn btn-success text-white btn-sm"><i class="ti-plus"></i></a>
+
+                }
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Create Date</th>
+                        <th>Products Count</th>
+                        <th>Operation</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr class="category-data">
+                            <td>@item.CategoryName</td>
+                            <td>@item.CreateDate</td>
+                            <td>@item.CourseCount</td>
+                            <td>
+                                <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-primary text-white btn-sm"><i class="ti-info"></i></a>
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning text-white btn-sm"><i class="ti-settings"></i></a>
+                                <form class="d-inline" method="post" asp-action="Delete" asp-route-id="@item.Id"><button type="submit" class="btn btn-danger text-white btn-sm"><i class="ti-trash"></i></button></form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            @*<div class="pagination d-flex justify-content-center mt-3">
+            <nav aria-label="...">
+                <ul class="pagination">
+                    <li class="page-item @(Model.HasPrevious?"" : "disabled")">
+                        <a class="page-link" asp-action="Index" asp-route-page="@(Model.CurrentPage-1)" tabindex="-1">Previous</a>
+                    </li>
+                    @for (int i = 1; i <= Model.TotalPage; i++)
+                    {
+                        <li class="page-item @(Model.CurrentPage==i ? "disabled" : "")">
+                            <a class="page-link @(Model.CurrentPage==i ? "paginate-active" : "") " asp-action="Index" asp-route-page="@i">@i <span class="sr-only">(current)</span></a>
+                        </li>
+                    }
+
+                    <li class="page-item @(Model.HasNext ? "" : "disabled")">
+                        <a class="page-link" asp-action="Index" asp-route-page="@(Model.CurrentPage+1)">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>*@
+        </div>
+    </div>
+</div>
+
+
+@section js{
+    <script src="~/admin/assets/js/archive.js"></script>
+}
